@@ -23,5 +23,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-url: https://github.com/promal/
-  baseurl: /01-setup-jekyll
+url: promal.github.io
+  baseurl: /jekyll-testing
