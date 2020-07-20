@@ -1,2 +1,1 @@
-# jekyll-testing
-# new project
+# https://promal.github.io/jekyll-testing/
